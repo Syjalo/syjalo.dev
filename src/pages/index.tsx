@@ -7,7 +7,7 @@ export default function Main() {
       <div className='w-full h-full mx-auto p-8 flex justify-center items-center'>
         <div>
           <h1 className='text-6xl font-bold my-1'>Hello, I&apos;m <span className='text-green-500'>Syjalo</span>!</h1>
-          <p className='uppercase text-lg tracking-wides text-neutral-300'>Don&apos;t imagine, just do it</p>
+          <p className='uppercase text-lg text-neutral-300'>Don&apos;t imagine, just do it</p>
           <div className='flex items-center justify-between max-w-xs mx-auto my-4'>
             <a href='mailto:contact@syjalo.dev' target='_blank' title='Email'>
               <SiMaildotru className='h-8 w-8' />
