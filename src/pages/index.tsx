@@ -19,7 +19,7 @@ export default function Main() {
               <span className='absolute w-auto p-2 min-w-max left-1/2 -translate-x-1/2 translate-y-12 rounded-md text-neutral-900 bg-neutral-300 font-bold transition-all duration-500 scale-0 group-hover:scale-100'>syjalo</span>
               <SiDiscord className='h-8 w-8' />
             </div>
-            <a href='https://vk.com/synbulat.biishev' target='_blank' title='VK'>
+            <a href='https://vk.com/id228982732' target='_blank' title='VK'>
               <SiVk className='h-8 w-8' />
             </a>
             <a href='https://twitter.com/Syjalo_' target='_blank' title='Twitter'>
